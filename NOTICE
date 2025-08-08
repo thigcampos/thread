@@ -1,0 +1,26 @@
+# NOTICE 
+
+### Original
+This project includes code originally developed in:
+
+**Swifter**
+Author: [Damian Kołakowski](https://github.com/damian-kolakowski)
+Copyright © 2014-2016 Damian Kołakowski
+
+---
+
+### Fork and Modifications
+
+This project is a fork of **Swifter** and is now maintained under the name:
+
+**Thread**
+Maintainer: Thiago Campos
+Copyright © 2025 Thiago Campos
+
+Significant changes have been made to the original codebase, including:
+
+* Renaming of products
+* Upgrade to Swift Tools version 6.2
+* Major restructuring of the package, dependencies, and modules
+
+All original and modified code remains under the same license.
